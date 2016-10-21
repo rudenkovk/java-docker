@@ -1,5 +1,4 @@
 FROM rudenkovk/ubuntu-docker:latest
-
 MAINTAINER "Konstantin Rudenkov" <rudenkovk@gmail.com>
 
 ENV JAVA_VERSION 8
